@@ -42,3 +42,6 @@ python "grafkom simple hirarki model.py"
 
 - This demo uses legacy OpenGL (immediate mode + matrix stack). It is intended for learning hierarchical transformations, not modern shader-based rendering.
 - The scene is strictly 2D (orthographic-like) and uses `glVertex2f` for simplicity.
+
+## Demo
+![Demo](demo.png)
